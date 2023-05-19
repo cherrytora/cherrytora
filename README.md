@@ -31,7 +31,7 @@ smart contracts & Dapp Notes
 - Keywords:`anchor`, `solana`
 
 ### Aptos 
-[Coin](https://github.com/cherrytora/aptos-coin-devnet)
+[Coin](https://github.com/cherrytora/aptos-coin-devnet)\
 [Dapp](https://github.com/cherrytora/aptos-DApp-devnet)
 - Intro: Learning notes 
 - Language:`move`, `typescript`
