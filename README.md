@@ -11,14 +11,29 @@
 - Keywords:`Differential Privacy`, `financial visual`, `CNN`
 - Tool:`tensorflow_privacy`, `tensorflow`, `Privacy Meter`
 
-
-
 ## Blockchain
 smart contracts & Dapp Notes
 ### Ethereum
+1. [DApp & Ethereum contracts](https://github.com/cherrytora/DApp-N-Ethereum-contracts)
+- Intro: Learning notes 
+- Language:`solidity`, `javascript`
+- Keywords:`smart conteact`, `ERC20`, `ERC721`, `mystery box`, `Dapp`
+
+2. [Side project -- stetri](https://github.com/cherrytora/stetri_web)
+- Intro: Blockchain application project
+- Language:`solidity`, `javascript`, `react`
+- Keywords:`smart conteact`, `ERC20`, `ERC721`
 
 ### Solana
+[Anchor](https://github.com/cherrytora/Solana-SmartContract-Anchor)
+- Intro: Learning notes 
+- Language:`rust`, `typescript`
+- Keywords:`anchor`, `solana`
 
 ### Aptos 
-
+[Coin](https://github.com/cherrytora/aptos-coin-devnet)
+[Dapp](https://github.com/cherrytora/aptos-DApp-devnet)
+- Intro: Learning notes 
+- Language:`move`, `typescript`
+- Keywords:`anchor`, `aptos`
 
