@@ -2,12 +2,17 @@
 
 # Learning Notes & Projects
 ## Data Analysis
-### Machine Learning
+### Machine Learning class
 [Machine Learning](https://github.com/cherrytora/SCU_ML)
 - Intro:Learning notes & class project
 - Language:`python`
 - Keywords:`machine learning`, `kaggle`,`sna`
 - Tool:`sklearn`, `networkx`, `keras`
+
+### Fintech class
+- Intro:Learning notes & class project
+- Language:`python`
+- Keywords:`AWS`,`Telegram Chatbot`, `Facial recognition`
 
 ### Deep Learning
 [Differential Privacy in Financial Vision](https://github.com/pecu/FinancialVision/tree/master/The_Protection_of_Data_Sharing_for_Privacy_in_Financial_Vision)
