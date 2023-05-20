@@ -1,16 +1,12 @@
-# About me
-
 # Learning Notes & Projects
 ## Data Analysis
-### Machine Learning class
-[Machine Learning](https://github.com/cherrytora/SCU_ML)
+### [Machine Learning class](https://github.com/cherrytora/SCU_ML)
 - Intro:Learning notes & class project
 - Language:`python`
 - Keywords:`machine learning`, `kaggle`,`sna`
-- Tool:`sklearn`, `networkx`, `keras`
+- Tools:`sklearn`, `networkx`, `keras`
 
-### Fintech class
-[Fintech class](https://github.com/cherrytora/FinTech)
+### [Fintech class](https://github.com/cherrytora/FinTech)
 - Intro:Learning notes & class project
 - Language:`python`
 - Keywords:`AWS`,`Telegram Chatbot`, `Facial recognition`
@@ -21,7 +17,7 @@
 - Intro:Compare data security with non-private and differential privacy financial visual models
 - Language:`python`
 - Keywords:`Differential Privacy`, `financial visual`, `CNN`
-- Tool:`tensorflow_privacy`, `tensorflow`, `Privacy Meter`
+- Tools:`tensorflow_privacy`, `tensorflow`, `Privacy Meter`
 
 ## Blockchain
 smart contracts & Dapp Notes
@@ -48,4 +44,13 @@ smart contracts & Dapp Notes
 - Intro: Learning notes 
 - Language:`move`, `typescript`
 - Keywords:`anchor`, `aptos`
+
+
+## Others
+### [discord bot](https://github.com/cherrytora/discord_bot)
+- Intro: Build a discord music bot with NFT identity authentication
+- Language:`python`, 
+- Keywords:`discord bot`
+
+
 
