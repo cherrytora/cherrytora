@@ -10,9 +10,11 @@
 - Tool:`sklearn`, `networkx`, `keras`
 
 ### Fintech class
+[Fintech class](https://github.com/cherrytora/FinTech)
 - Intro:Learning notes & class project
 - Language:`python`
 - Keywords:`AWS`,`Telegram Chatbot`, `Facial recognition`
+- Project:`人臉核保應用`
 
 ### Deep Learning
 [Differential Privacy in Financial Vision](https://github.com/pecu/FinancialVision/tree/master/The_Protection_of_Data_Sharing_for_Privacy_in_Financial_Vision)
