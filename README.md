@@ -1,3 +1,36 @@
+# Experience
+### 2022/10 - Data Engineer at Datarget Inc.
+  1. MSSQL
+      - 資料撈取
+      - 建立資料表
+      - 產出BI報表所需資料
+      - Stored Procedure 排程開發
+  2. Build Restful API
+  3. 其他：
+      (1) 建立ETL流程
+      (2) 設定排程：
+        - crontab
+        - windows(bat 檔)
+  4. 建立模型：
+    (1) ML model ：Scikit-learn, XGBoost
+    (2) DL model：Tensorflow/Keras
+    (3) Data mining
+    
+### 2021/08 ~ 2022/07 - Data Analyst Intern at [mecotech](https://www.mecotech.com.tw/)
+1. Data clean
+2. Data mining
+3. Customer Segmentation(RFM & NES)
+4. Customer Behavior Analysis
+5. Build Recommended system with NCF model
+
+### 5+ years - Research Assistant at NTU
+- Research Statistical Analysis
+  - t-test
+  - Chi-square test 
+  - Logistic Regression
+  - ANOVA
+  - Survival Analysis
+
 # Learning Notes & Projects
 ## Data Analysis
 ### [Machine Learning class](https://github.com/cherrytora/SCU_ML)
@@ -49,7 +82,7 @@ smart contracts & Dapp Notes
 ## Others
 ### [discord bot](https://github.com/cherrytora/discord_bot)
 - Intro: Build a discord music bot with NFT identity authentication
-- Language:`python`, 
+- Language:`python`
 - Keywords:`discord bot`
 
 
